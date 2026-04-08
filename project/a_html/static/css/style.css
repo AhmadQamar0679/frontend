@@ -1,0 +1,14 @@
+
+nav ,ul ,li,a{
+    margin-top:10px;
+   
+    text-decoration: none;
+    list-style: none;
+    display: flex ;
+    margin: 2px;
+    background-color: cadetblue;
+    
+
+
+    
+}
