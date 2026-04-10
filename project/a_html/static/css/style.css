@@ -1,8 +1,31 @@
-ul{
-    display: flex;
-    
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style:italic;
+}
+h1{
+    background-color: pink;
+    color: rgb(132, 84, 100);
+}
+p{
+    color: rgb(3, 7, 83);
+    background-color: cadetblue;
+}
+.e-color{
+    background-color: chartreuse
+}
+#id{
+    background-color: aqua;
+    margin-top: 7px;
+}
+/* Day 3 practic */
+
+.box{
+    height: 200px;
+    margin: 20px;
+    width: 200px;
+    padding: 20px;
+    border: 20px solid rebeccapurple ;
+
 }
 
-nav{
-    text-align: center;
-}
+/* Day 4 */
